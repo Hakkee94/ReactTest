@@ -1,0 +1,8 @@
+.list-page {
+  display: flex;
+  min-width: 1138px;
+  flex-wrap: wrap;
+  padding: 85px 15px 85px 48px;
+}
+
+/*# sourceMappingURL=ListPage.css.map */

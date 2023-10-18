@@ -1,0 +1,50 @@
+.sidebar-item {
+  display: flex;
+  width: 347px;
+  height: 130px;
+  border-radius: 30px;
+  background: rgb(251, 251, 251);
+  margin: 0 32px;
+  align-items: center;
+}
+.sidebar-item .sidebar-item-img {
+  width: 108px;
+  height: 108px;
+  border-radius: 30px;
+  background-image: url("../../images/candy.png");
+  margin: 11px 20px 11px 15px;
+}
+.sidebar-item .sidebar-item-name {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  padding-bottom: 10px;
+}
+.sidebar-item .sidebar-item-price {
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: left;
+  padding-right: 56px;
+}
+.sidebar-item .sidebar-item-info {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.sidebar-item .side-bar-item-hearth {
+  background-image: url("../../images/black-heart.png");
+  width: 30px;
+  height: 30px;
+  border: none;
+}
+.sidebar-item .black-heart {
+  cursor: pointer;
+}
+
+/*# sourceMappingURL=SidebarItem.css.map */

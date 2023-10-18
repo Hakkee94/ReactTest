@@ -1,0 +1,38 @@
+.card-details {
+  display: flex;
+  justify-content: space-between;
+}
+.card-details .card-details-img {
+  width: 448px;
+  height: 448px;
+  background-image: url("../../images/img-details.png");
+  background-size: cover;
+}
+.card-details .card-details-info {
+  display: flex;
+}
+.card-details .card-details-name {
+  color: #414141;
+  font-family: Poppins;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding: 55px 0 61px;
+}
+.card-details .card-details-price {
+  display: flex;
+  align-items: center;
+  color: #414141;
+  font-family: Poppins;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  padding-right: 296px;
+}
+.card-details .card-details-content {
+  width: 601px;
+}
+
+/*# sourceMappingURL=CardDetails.css.map */

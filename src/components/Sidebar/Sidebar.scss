@@ -1,0 +1,21 @@
+.sidebar {
+  width: 407px;
+  height: 880px;
+  border-radius: 30px;
+  border: dashed 2px rgb(65, 65, 65);
+  margin: 100px 128px 75px 100px;  //48
+  //display: flex;
+  //flex-direction: column;
+  //align-items: center;
+
+  .title {
+    text-transform: uppercase;
+    font-family: Anek Telugu;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    padding: 50px 30px;
+  }
+}
