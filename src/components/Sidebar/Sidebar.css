@@ -15,5 +15,8 @@
   text-align: left;
   padding: 50px 30px;
 }
+.sidebar .sidebar-empty {
+  text-align: center;
+}
 
 /*# sourceMappingURL=Sidebar.css.map */

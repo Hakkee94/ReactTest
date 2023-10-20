@@ -1,13 +1,11 @@
-import './Header.scss'
+import "./Header.scss";
 
-function Header() {
-
-
+function Header({ title }: { title: string }) {
     return (
         <header>
-            <div>Product list Page</div>
+            <div>{title}</div>
         </header>
-    )
+    );
 }
 
-export default Header
+export default Header;
